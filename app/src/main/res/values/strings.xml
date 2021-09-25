@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Unit Converter</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="units">
+        <item>Inch</item>
+        <item>Centimeter</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Meter</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+
+
+    <string-array name="unitsa">
+        <item>SquareInch</item>
+        <item>SquareCentimeter</item>
+        <item>SquareFoot</item>
+        <item>SquareYard</item>
+        <item>SquareMeter</item>
+        <item>SquareMile</item>
+        <item>SquareKilometer</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+
+    <string-array name="unitsvolume">
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Gallon</item>
+        <item>Us_Liquid_Gallon</item>
+        <item>Us_Liquid_Quart</item>
+        <item>Us_Liquid_Pint</item>
+        <item>Us_Liquid_Cup</item>
+        <item>Us_Fluid_Ounce</item>
+        <item>Us_Tablespoon</item>
+        <item>Us_Teaspoon</item>
+        <item>Cubic_Meter</item>
+        <item>Cubic_Foot</item>
+        <item>Cubic_Inch</item>
+        <item>Imperial_Quart</item>
+        <item>Imperial_Pint</item>
+        <item>Imperial_Cup</item>
+        <item>Imperial_Ounce</item>
+        <item>Imperial_Tablespoon</item>
+        <item>Imperial_Teaspoon</item>
+    </string-array>
+
+    <string-array name="unitsw">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Imperial_ton</item>
+        <item>Us_ton</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+
+    <string-array name="unitstime">
+        <item>Nanosecond</item>
+        <item>Microsecond</item>
+        <item>Millisecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+        <item>Century</item>
+    </string-array>
+
+    <string-array name="unitstemp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="unitsfre">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+
+    <string-array name="unitsspeed">
+        <item>Miles_Per_Hour</item>
+        <item>Foot_Per_Second</item>
+        <item>Meter_Per_Second</item>
+        <item>Killometer_Per_Hour</item>
+        <item>Knot</item>
+    </string-array>
+
+    <string-array name="unitsenergy">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Gramcalarie</item>
+        <item>Kilocalarie</item>
+        <item>Watthour</item>
+        <item>Kilowatt_Hour</item>
+        <item>Electronvolt</item>
+        <item>British_Thermal_unit</item>
+        <item>Us_Therm</item>
+        <item>Foot_Pound</item>
+    </string-array>
+
+    <string-array name="unitsangle">
+        <item>Degree</item>
+        <item>Gradian</item>
+        <item>Milliradian</item>
+        <item>Minute_Of_Arc</item>
+        <item>Radian</item>
+        <item>Second_Of_Arc</item>
+    </string-array>
+
+    <string-array name="unitspre">
+        <item>Bar</item>
+        <item>Pascal</item>
+        <item>Pound_Force_Per_Square_Inch</item>
+        <item>Standard_Atmosphere</item>
+        <item>Torr</item>
+    </string-array>
+
+    <string-array name="unitsfuel">
+        <item>Mile_Per_Us_Gallon</item>
+        <item>Mile_Per_Gallon</item>
+        <item>Kilometer_Per_Liter</item>
+        <item>Liter_Per_100_Kilometer</item>
+    </string-array>
+
+    <string-array name="unitstds">
+        <item>Bit</item>
+        <item>Kilobit</item>
+        <item>Megabit</item>
+        <item>Gigabit</item>
+        <item>Terabit</item>
+        <item>Petabit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+        <item>Petabyte</item>
+    </string-array>
+
+    <string-array name="unitsdtr">
+        <item>Bit_Per_Second</item>
+        <item>Kilobit_Per_Second</item>
+        <item>Kilobyte_Per_Second</item>
+        <item>Megabit_Per_Second</item>
+        <item>Megabyte_Per_Second</item>
+        <item>Gigabit_Per_Second</item>
+        <item>Gigabyte_Per_Second</item>
+        <item>Terabit_Per_Second</item>
+        <item>Terabyte_Per_Second</item>
+    </string-array>
+
+
+</resources>
